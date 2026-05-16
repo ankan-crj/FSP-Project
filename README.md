@@ -1,1 +1,1 @@
-# FSP-Project
+# Eventastic
